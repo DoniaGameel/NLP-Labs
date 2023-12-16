@@ -1,0 +1,47 @@
+
+Student 1: Donia Gameel
+Student 2: Heba Ashraf Raslan
+
+Q1:
+
+243 represents the total number of unique words in the word_embeddings_subset
+
+
+Q2:
+
+(300,) represents the dimentionality of the word embbeddings. Each word in the dataset is represented as a vector in a 300-dimensional space.
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes, because the predicted country 'Egypt' corresponds to the capital city 'Cairo' 
+in the context of the input cities and countries.
+
+
+Q4:
+
+Yes. 
+A similarity score of 0.7626821 [Close to 1] suggests a relatively high degree of similarity
+between the calculated vector (representing 'Egypt') and the word embedding for the predicted country.
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+- Words that are semantically related or have similar meanings appear closer in the plot.
+- The spatial arrangement captures certain semantic relationships; for instance, 'happy' and 'joyful' are close, indicating similarity.
+- Words like 'oil' and 'gas' appear close, reflecting their potential semantic association.
+
